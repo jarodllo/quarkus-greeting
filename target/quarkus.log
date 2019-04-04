@@ -1,0 +1,36 @@
+2019-04-04 21:08:27,896 macbook-pro-de-javier-2 surefirebooter14773218411460170420.jar[90534] INFO  [io.qua.dep.QuarkusAugmentor] (main) Beginning quarkus augmentation
+2019-04-04 21:08:28,056 macbook-pro-de-javier-2 surefirebooter14773218411460170420.jar[90534] DEBUG [org.jbo.threads] (main) JBoss Threads version 3.0.0.Alpha4
+2019-04-04 21:08:29,621 macbook-pro-de-javier-2 surefirebooter14773218411460170420.jar[90534] INFO  [io.qua.dep.QuarkusAugmentor] (main) Quarkus augmentation completed in 1724ms
+2019-04-04 21:08:29,950 macbook-pro-de-javier-2 surefirebooter14773218411460170420.jar[90534] DEBUG [org.xnio] (main) XNIO version 3.7.0.Final
+2019-04-04 21:08:29,968 macbook-pro-de-javier-2 surefirebooter14773218411460170420.jar[90534] DEBUG [org.xni.nio] (main) XNIO NIO Implementation Version 3.7.0.Final
+2019-04-04 21:08:30,070 macbook-pro-de-javier-2 surefirebooter14773218411460170420.jar[90534] INFO  [io.quarkus] (main) Quarkus 0.12.0 started in 0.428s. Listening on: http://[::]:8081
+2019-04-04 21:08:30,070 macbook-pro-de-javier-2 surefirebooter14773218411460170420.jar[90534] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]
+2019-04-04 21:08:31,916 macbook-pro-de-javier-2 surefirebooter14773218411460170420.jar[90534] INFO  [io.quarkus] (main) Quarkus stopped in 0.014s
+2019-04-04 21:09:00,399 macbook-pro-de-javier-2 surefirebooter7003473560985833481.jar[90560] INFO  [io.qua.dep.QuarkusAugmentor] (main) Beginning quarkus augmentation
+2019-04-04 21:09:00,567 macbook-pro-de-javier-2 surefirebooter7003473560985833481.jar[90560] DEBUG [org.jbo.threads] (main) JBoss Threads version 3.0.0.Alpha4
+2019-04-04 21:09:01,220 macbook-pro-de-javier-2 surefirebooter7003473560985833481.jar[90560] INFO  [io.qua.dep.QuarkusAugmentor] (main) Quarkus augmentation completed in 821ms
+2019-04-04 21:09:01,484 macbook-pro-de-javier-2 surefirebooter7003473560985833481.jar[90560] DEBUG [org.xnio] (main) XNIO version 3.7.0.Final
+2019-04-04 21:09:01,505 macbook-pro-de-javier-2 surefirebooter7003473560985833481.jar[90560] DEBUG [org.xni.nio] (main) XNIO NIO Implementation Version 3.7.0.Final
+2019-04-04 21:09:01,640 macbook-pro-de-javier-2 surefirebooter7003473560985833481.jar[90560] INFO  [io.quarkus] (main) Quarkus 0.12.0 started in 0.402s. Listening on: http://[::]:8081
+2019-04-04 21:09:01,641 macbook-pro-de-javier-2 surefirebooter7003473560985833481.jar[90560] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]
+2019-04-04 21:09:02,886 macbook-pro-de-javier-2 surefirebooter7003473560985833481.jar[90560] INFO  [io.quarkus] (main) Quarkus stopped in 0.010s
+2019-04-04 21:10:26,299 macbook-pro-de-javier-2 surefirebooter17943227966372301627.jar[90601] INFO  [io.qua.dep.QuarkusAugmentor] (main) Beginning quarkus augmentation
+2019-04-04 21:10:26,508 macbook-pro-de-javier-2 surefirebooter17943227966372301627.jar[90601] DEBUG [org.jbo.threads] (main) JBoss Threads version 3.0.0.Alpha4
+2019-04-04 21:10:27,199 macbook-pro-de-javier-2 surefirebooter17943227966372301627.jar[90601] INFO  [io.qua.dep.QuarkusAugmentor] (main) Quarkus augmentation completed in 900ms
+2019-04-04 21:10:27,496 macbook-pro-de-javier-2 surefirebooter17943227966372301627.jar[90601] DEBUG [org.xnio] (main) XNIO version 3.7.0.Final
+2019-04-04 21:10:27,523 macbook-pro-de-javier-2 surefirebooter17943227966372301627.jar[90601] DEBUG [org.xni.nio] (main) XNIO NIO Implementation Version 3.7.0.Final
+2019-04-04 21:10:27,665 macbook-pro-de-javier-2 surefirebooter17943227966372301627.jar[90601] INFO  [io.quarkus] (main) Quarkus 0.12.0 started in 0.450s. Listening on: http://[::]:8081
+2019-04-04 21:10:27,666 macbook-pro-de-javier-2 surefirebooter17943227966372301627.jar[90601] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]
+2019-04-04 21:10:29,208 macbook-pro-de-javier-2 surefirebooter17943227966372301627.jar[90601] INFO  [io.quarkus] (main) Quarkus stopped in 0.014s
+2019-04-04 22:13:53,667 macbook-pro-de-javier-2 surefirebooter12464376690641302723.jar[92265] INFO  [io.qua.dep.QuarkusAugmentor] (main) Beginning quarkus augmentation
+2019-04-04 22:13:53,911 macbook-pro-de-javier-2 surefirebooter12464376690641302723.jar[92265] DEBUG [org.jbo.threads] (main) JBoss Threads version 3.0.0.Alpha4
+2019-04-04 22:13:54,460 macbook-pro-de-javier-2 surefirebooter12464376690641302723.jar[92265] DEBUG [org.hib.jpa.boo.int.PersistenceXmlParser] (build-4) HHH000318: Could not find any META-INF/persistence.xml file in the classpath
+2019-04-04 22:13:54,742 macbook-pro-de-javier-2 surefirebooter12464376690641302723.jar[92265] DEBUG [org.hib.Version] (build-9) HHH000412: Hibernate Core {5.4.1.Final}
+2019-04-04 22:13:55,029 macbook-pro-de-javier-2 surefirebooter12464376690641302723.jar[92265] INFO  [io.qua.dep.QuarkusAugmentor] (main) Quarkus augmentation completed in 1362ms
+2019-04-04 22:13:55,636 macbook-pro-de-javier-2 surefirebooter12464376690641302723.jar[92265] DEBUG [org.hib.ann.com.Version] (main) HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2019-04-04 22:13:55,762 macbook-pro-de-javier-2 surefirebooter12464376690641302723.jar[92265] DEBUG [org.hib.dia.Dialect] (main) HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL95Dialect
+2019-04-04 22:13:56,226 macbook-pro-de-javier-2 surefirebooter12464376690641302723.jar[92265] DEBUG [com.arj.ats.arjuna] (main) ARJUNA012170: TransactionStatusManager started on port 54152 and host 127.0.0.1 with service com.arjuna.ats.arjuna.recovery.ActionStatusService
+2019-04-04 22:13:56,347 macbook-pro-de-javier-2 surefirebooter12464376690641302723.jar[92265] DEBUG [org.hib.orm.beans] (main) HHH10005002: No explicit CDI BeanManager reference was passed to Hibernate, but CDI is available on the Hibernate ClassLoader.
+2019-04-04 22:13:56,589 macbook-pro-de-javier-2 surefirebooter12464376690641302723.jar[92265] DEBUG [org.hib.eng.tra.jta.pla.int.JtaPlatformInitiator] (main) HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.JBossStandAloneJtaPlatform]
+2019-04-04 22:13:56,717 macbook-pro-de-javier-2 surefirebooter12464376690641302723.jar[92265] WARN  [org.hib.eng.jdb.spi.SqlExceptionHelper] (main) SQL Error: 0, SQLState: null
+2019-04-04 22:13:56,718 macbook-pro-de-javier-2 surefirebooter12464376690641302723.jar[92265] ERROR [org.hib.eng.jdb.spi.SqlExceptionHelper] (main) Exception while creating new connection

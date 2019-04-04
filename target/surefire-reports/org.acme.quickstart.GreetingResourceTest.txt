@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: org.acme.quickstart.GreetingResourceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.441 s <<< FAILURE! - in org.acme.quickstart.GreetingResourceTest
+org.acme.quickstart.GreetingResourceTest  Time elapsed: 2.439 s  <<< ERROR!
+java.lang.RuntimeException: Failed to start quarkus
+Caused by: java.lang.NullPointerException
+
